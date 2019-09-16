@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".card3">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="1.Saliva is a great biological sensing fluid for diagnosis. \n
+2.Hereby we will see how saliva is going to detect blood glucose level.\n
+3.This method is mainly focused on salivary resistance of a healthy and also a diabetic
+patient:before and after fasting,there are many other methods as well but this is a particular one
+basing on saliva.\n
+4.Saliva is a biological sensing element which is saliva based tannery solid waste so it can be used
+for sensing such as blood sugar level,hormone level,cancer biomarkers and etc.\n
+"
+        android:gravity="center"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+
+
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="53dp" />
+</android.support.constraint.ConstraintLayout>
